@@ -2,6 +2,9 @@
 
 A professional GUI application for creating Flatpak applications with ease. Built with Python and Tkinter, this tool simplifies the process of generating Flatpak manifests, managing dependencies, and building sandboxed Linux applications.
 
+<img width="1232" height="993" alt="image" src="https://github.com/user-attachments/assets/af70bb8f-cea3-4c7f-97b0-cc04b3edf975" />
+
+
 ## Features
 
 ### Core Functionality
